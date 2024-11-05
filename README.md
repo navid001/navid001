@@ -73,7 +73,7 @@ A full-stack web scraping application built with Django and BeautifulSoup.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=navid001&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
-## Recent Activity ⚡
+<!-- ## Recent Activity ⚡ -->
 
 <!--START_SECTION:activity-->
 <!-- This section will be automatically updated by GitHub Actions -->
